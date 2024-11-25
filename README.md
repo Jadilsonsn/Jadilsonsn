@@ -15,7 +15,7 @@
 
 ### Tecnologias 
 - Linguagens de Programação: Python
-- Banco de Dados: PL/SQL 
+- Banco de Dados: PL/SQL, SQLITE
 
 
 ### 🛠️ Ferramentas 
