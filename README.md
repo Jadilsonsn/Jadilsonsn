@@ -1,6 +1,6 @@
 # Jadilson Nascimento 
 
- *Olá, sou o Jadilson Nascimento, um entusiasta de tecnologia com uma forte inclinação para dados. Tenho interesse em transformar dados em soluções eficientes, sempre buscando maneiras inovadoras de otimizar processos e explorar novas tecnologias*
+ *Olá, sou o Jadilson Nascimento, um entusiasta de tecnologia. Estou sempre buscando maneiras inovadoras de otimizar processos e explorar novas tecnologias*
 
 
 
@@ -13,19 +13,23 @@
     📚 Tecnologia em Análise e Desenvolvimento de Sistemas 
 
 
-### Tecnologias
-- Python
-- SQL
-- Databricks (Iniciante)
-- Machine Learning
-- Power BI
+### Tecnologias 
+- Linguagens de Programação: Python
+- Banco de Dados: PL/SQL 
 
 
-### Framework
-- Pandas
-- Selenium
-- PyAutoGUI
-- Streamlit 
+### 🛠️ Ferramentas 
+- Analise de Dados: Power BI e  Power Query
+- Controle de Versão: Git e GitHub
+- Jira Service Management
+- VS Code
+- CRM - Salesforce
+
+### 📚 Tecnologias e Ferramentas em aprendizado:
+- DevOps: Docker, Kubernetes
+- ITSM (Gerenciamento de Serviços de TI): ITIL
+- Scripting e Automação: PowerShell
+
 
 ### Contatos 
 - LinkedIn : https://www.linkedin.com/in/jadilsonnascimento
