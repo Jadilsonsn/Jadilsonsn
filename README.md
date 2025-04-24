@@ -1,6 +1,6 @@
  # Jadilson Nascimento 
 
-## 🛠️ Áreas de Interesse
+## 🛠️ Área
 Analista de Dados
 
 ## 🖥️ Tecnologias e Ferramentas
